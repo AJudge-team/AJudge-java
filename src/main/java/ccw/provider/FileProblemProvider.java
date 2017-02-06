@@ -14,7 +14,6 @@ public class FileProblemProvider implements ProblemProvider {
     public ProblemMetadata getProblemMetadataById(String problemId) {
 
         ProblemMetadata p = new ProblemMetadata();
-
         return p;
     }
 }
